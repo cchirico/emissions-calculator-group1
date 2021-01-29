@@ -1,2 +1,2 @@
-# emissions-calculator-group1
+# Emissions-calculator-group1
 ## Welcome Group 1
