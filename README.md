@@ -1,6 +1,5 @@
 # Emissions-calculator-group1
-## Welcome Group 1
-
-### This is group one's project diary.
+## Hello and welcome!
+#### This is group 1's project diary.
 
 Test
